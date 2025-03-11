@@ -1,0 +1,15 @@
+transformers
+smolagents
+beautifulsoup4
+requests
+huggingface-hub
+
+#for msty_inference
+#subprocess
+
+#for ollama_api.py
+fastapi
+uvicorn
+
+#for 10python_one_liners_scikit-learn.py
+scikit-learn
